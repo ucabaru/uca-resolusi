@@ -1,0 +1,4 @@
+Resolusi saya di 2024
+- Paham GIT / VCS
+- Paham Javascript
+- Paham Laravel
